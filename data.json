@@ -1,0 +1,11 @@
+[
+    { "nombre": "Iphone 8", "precio": "$200", "descripcion": "Blanco y Negro\nCapacidad de espacio: 64gb y 128gb", "imagen": "https://http2.mlstatic.com/D_NQ_NP_802386-MLA43694099105_102020-O.webp" },
+    { "nombre": "Iphone X", "precio": "$300", "descripcion": "Blanco, Negro y Dorado\nCapacidad de espacio: 64gb, 128gb y 256gb", "imagen": "https://i.ebayimg.com/images/g/TdAAAOSwfiReQjj3/s-l500.jpg" },
+    { "nombre": "Iphone XR", "precio": "$350", "descripcion": "Blanco\nCapacidad de espacio: 64gb y 128gb", "imagen": "https://http2.mlstatic.com/D_NQ_NP_793142-MLA46545889177_062021-O.webp" },
+    { "nombre": "Iphone 11", "precio": "$400", "descripcion": "Blanco, Violeta y Verde\nCapacidad de espacio: 128gb", "imagen": "https://http2.mlstatic.com/D_NQ_NP_809326-MLA46115014340_052021-O.webp" },
+    { "nombre": "Iphone 12", "precio": "$450", "descripcion": "Negro\nCapacidad de espacio: 64gb y 128gb", "imagen": "https://http2.mlstatic.com/D_NQ_NP_864889-MLA45729915884_042021-O.webp" },
+    { "nombre": "Iphone 13", "precio": "$500", "descripcion": "Blanco y Negro\nCapacidad de espacio: 128gb y 256gb", "imagen": "https://http2.mlstatic.com/D_NQ_NP_973345-MLA47781591382_102021-O.webp" },
+    { "nombre": "Iphone 14", "precio": "$600", "descripcion": "Celeste y Negro\nCapacidad de espacio: 128gb y 512gb", "imagen": "https://http2.mlstatic.com/D_NQ_NP_786356-MLM51559385272_092022-O.webp" },
+    { "nombre": "Iphone 15", "precio": "$700", "descripcion": "Negro, Rosa y Azul\nCapacidad de espacio: 128gb y 256gb", "imagen": "https://http2.mlstatic.com/D_NQ_NP_759471-MLA71782897602_092023-O.webp" },
+    { "nombre": "Iphone 15 pro", "precio": "$800", "descripcion": "Titanio natural, titanio azul y titanio blanco\nCapacidad de espacio: 128gb y 256gb", "imagen": "https://http2.mlstatic.com/D_NQ_NP_891263-MLA71783089058_092023-O.webp" }
+]
